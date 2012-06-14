@@ -15,7 +15,7 @@ repositories {
 }
 
 version = '0.0.1'
-group = 'barc.ex'
+group = 'barc.navigation'
 
 dependencies {
     compile 'barc.subsumption:subsumption:0.0.1'
