@@ -1,4 +1,10 @@
 *.class
+.gradle/
+
+# IDEA files
+*.iml
+*.ipr
+*.iws
 
 # Package Files #
 *.jar
